@@ -1009,5 +1009,5 @@ export const TOKEN_CONTRACT_ABI = [
     "stateMutability": "payable",
     "type": "receive"
   }
-];
-export const TOKEN_CONTRACT_ADDRESS = "0x0b35Dd7fF7C723FacaFc8506AcFbC46A194350C0";
+]
+export const TOKEN_CONTRACT_ADDRESS = "0x1767228be1cC1E17f588c8Bb8d775C27f682EA58";
